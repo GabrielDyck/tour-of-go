@@ -1,9 +1,8 @@
 package main
 
 /*
-Más For
-
-Como en C o Java, puedes dejar vacías las sentencias pre y post.
+For continued
+The init and post statements are optional.
  */
 import "fmt"
 
